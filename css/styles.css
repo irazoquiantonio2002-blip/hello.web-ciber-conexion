@@ -216,8 +216,8 @@ body.menu-open #navbar {
 }
 
 .nav-logo-img {
-  width: 72px;
-  height: 48px;
+  width: 180px;
+  height: 120px;
   object-fit: contain;
 }
 
@@ -1301,8 +1301,8 @@ footer {
   }
 
   .nav-logo-img {
-    width: 58px;
-    height: 40px;
+    width: 145px;
+    height: 100px;
   }
 
   .nav-logo-copy span:first-child {
